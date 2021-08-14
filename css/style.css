@@ -35,15 +35,18 @@ html {
 }
 
 body {
-	color: #666666;
+	color: #808080;
 	font-size: 14px;
 	font-family: 'Rajdhani', sans-serif;
 	line-height: 1.80857;
-	font-weight: normal;
+	font-weight: 500;
 	overflow-x: hidden;
 }
 
 body p {
+	font-size: 14px;
+	line-height: 22px;
+	font-weight: 400;
 	font-family: 'Poppins', sans-serif;
 }
 
@@ -127,13 +130,6 @@ ol {
 	margin: 0px;
 	padding: 0px;
 	list-style: none;
-}
-
-p {
-	margin: 0px;
-	font-weight: 300;
-	font-size: 15px;
-	line-height: 24px;
 }
 
 a {
@@ -1043,9 +1039,9 @@ nav.main-menu {
 }
 
 .main-menu ul>li a {
-	padding: 43px 13px 44px 13px;
+	padding: 54px 13px 55px 13px;
 	line-height: 20px;
-	font-size: 16px;
+	font-size: 18px;
 	display: block;
 	font-weight: 500;
 	color: #808080;
@@ -1782,8 +1778,8 @@ background: #808080;
 }
 
 .title span{
-color: #afaaaa;
-font-size: 20px;
+color: #808080;
+font-size: 18px;
 line-height: 24px;
 margin-top: 20px;
 }
@@ -1857,6 +1853,8 @@ margin-top: 40px;
 .our-process .title span {
 	display: block;
 	margin-bottom: 15px;
+	font-weight: 400;
+	font-family: 'Poppins', sans-serif;
 }
 
 .service .service-box {
@@ -1920,7 +1918,9 @@ margin-top: 40px;
 	list-style-type: disc;
 	color: #808080;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 22px;
+	font-weight: 400;
+	font-family: 'Poppins', sans-serif;
 }
 
 .service.our-process .service-box img {
@@ -2000,10 +2000,12 @@ margin-top: 40px;
 } */
 
 .product .title span{
-color:#afaaaa;
+color:#808080;
 font-size: 18px;
 line-height: 24px;
 margin-top: 20px;
+font-weight: 400;
+font-family: 'Poppins', sans-serif;
 }
 
 .certificate-list {
@@ -2069,8 +2071,8 @@ margin-top: 20px;
  .product-bg .product-bg-white .product-box  h3 {
  	color: #fff;
  	font-weight: 500;
- 	font-size: 16px;
- 	line-height: 20px;
+ 	font-size: 18px;
+ 	line-height: 22px;
  	padding-top: 15px;
 	 padding-bottom: 0;
 	 margin: 0;
@@ -2261,8 +2263,8 @@ font-size: 18px;
 .contact p,
 .contact p a {
 	color: #fff;
-	font-size: 14px;
-	line-height: 22px;
+	font-size: 15px;
+	line-height: 24px;
 }
 
 .contact p {
@@ -2271,8 +2273,8 @@ font-size: 18px;
 
 ul.lik li a {
 	color: #fff;
-	font-size: 14px;
-	line-height: 22px;
+	font-size: 16px;
+	line-height: 24px;
 }
 
 ul.lik li a:hover {
@@ -2439,7 +2441,7 @@ text-align: center;
 	object-fit: cover;
 }
 .about .about_box h3 {color: #013064; font-weight: 500; font-size: 30px; line-height: 35px;}
-.about .about_box p {color: #808080; font-size: 17px; line-height: 23px; padding-top: 10px;}
+.about .about_box p {color: #808080; padding-top: 10px;}
 
 .about-bg {
 	background-color: #ad2100;
@@ -2926,6 +2928,8 @@ text-align: center;
 .quality-test-content ul li {
 	list-style-type: disc;
 	margin: 0 0 5px;
+	font-weight: 400;
+	font-family: 'Poppins', sans-serif;
 }
 
 
@@ -2951,6 +2955,8 @@ text-align: center;
 .text, .memory-text {
 	font-size: 1em;
 	color: #fff;
+	font-weight: 400;
+	font-family: 'Poppins', sans-serif;
 }
   
 .history-block .heading-block {
@@ -3120,6 +3126,8 @@ text-align: center;
 	line-height: 24px;
 	margin: 0 0 10px;
 	position: relative;
+	font-weight: 400;
+	font-family: 'Poppins', sans-serif;
 }
 
 .process-advantages-list ul li:before {
