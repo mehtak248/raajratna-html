@@ -1952,7 +1952,7 @@ margin-top: 40px;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
-	height: 500px;
+	height: 600px;
 	width: 100%;
 }
 
@@ -2557,6 +2557,7 @@ text-align: center;
 	position: relative;
 	height: 300px;
 	overflow: hidden;
+	border: 1px solid #aaa;
 }
 .gallery a .details {
 	width: 70%;
@@ -2578,6 +2579,8 @@ text-align: center;
 }
 .gallery a img {
 	min-width: 450px;
+	height: 450px;
+	object-fit: cover;
 }
 @media screen and (max-width: 776px) {
 	header .logo {

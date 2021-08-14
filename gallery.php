@@ -14,20 +14,29 @@
             <a href="images/product1.jpg">
                <img src="images/product1.jpg">
             </a>
-            <a href="images/product1.jpg">
-               <img src="images/product1.jpg">
+            <a href="images/CommitmenttoReliability_01.jpg">
+               <img src="images/CommitmenttoReliability_01.jpg">
             </a>
-            <a href="images/product1.jpg">
-               <img src="images/product1.jpg">
+            <a href="images/product2.jpg">
+               <img src="images/product2.jpg">
             </a>
-            <a href="images/product1.jpg">
-               <img src="images/product1.jpg">
+            <a href="images/CommitmenttoReliability_02.jpg">
+               <img src="images/CommitmenttoReliability_02.jpg">
             </a>
-            <a href="images/product1.jpg">
-               <img src="images/product1.jpg">
+            <a href="images/product3.jpg">
+               <img src="images/product3.jpg">
             </a>
-            <a href="images/product1.jpg">
-               <img src="images/product1.jpg">
+            <a href="images/product4.jpg">
+               <img src="images/product4.jpg">
+            </a>
+            <a href="images/ElectroPolishing.jpg">
+               <img src="images/ElectroPolishing.jpg">
+            </a>
+            <a href="images/MechanicalProperties.jpg">
+               <img src="images/MechanicalProperties.jpg">
+            </a>
+            <a href="images/MechanicalTestingFacilities.jpg">
+               <img src="images/MechanicalTestingFacilities.jpg">
             </a>
          </div>
       </div>
