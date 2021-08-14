@@ -22,7 +22,7 @@
                   </div>
                </div>
             </div>
-            <div class="carousel-item" style="background-image: url(images/banner1.jpg)">
+            <div class="carousel-item" style="background-image: url(images/banner3.jpg)">
                <div class="container">
                   <div class="carousel-caption relative">
                      <h1>Our Team</h1>
@@ -276,20 +276,20 @@
             <a href="images/product1.jpg">
                <img src="images/product1.jpg">
             </a>
-            <a href="images/product1.jpg">
-               <img src="images/product1.jpg">
+            <a href="images/CommitmenttoReliability_01.jpg">
+               <img src="images/CommitmenttoReliability_01.jpg">
             </a>
-            <a href="images/product1.jpg">
-               <img src="images/product1.jpg">
+            <a href="images/product2.jpg">
+               <img src="images/product2.jpg">
             </a>
-            <a href="images/product1.jpg">
-               <img src="images/product1.jpg">
+            <a href="images/CommitmenttoReliability_02.jpg">
+               <img src="images/CommitmenttoReliability_02.jpg">
             </a>
-            <a href="images/product1.jpg">
-               <img src="images/product1.jpg">
+            <a href="images/product3.jpg">
+               <img src="images/product3.jpg">
             </a>
-            <a href="images/product1.jpg">
-               <img src="images/product1.jpg">
+            <a href="images/product4.jpg">
+               <img src="images/product4.jpg">
             </a>
          </div>
       </div>
