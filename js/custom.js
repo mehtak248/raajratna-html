@@ -372,13 +372,21 @@ $(function () {
 		$('.menu-area').slideToggle();
 	});
 
-	$('.main-menu ul>li a.dropdown:before').on('click', function(e) {
-		e.preventDefault();
-		e.stopPropagation();
-		console.log('before')
-
+	$('.main-menu ul>li.dropdown').on('click', function(e) {
+		$(this).find('ul').slideToggle();
 	});
 });
+
+$(window).scroll(function(){
+	if ($(window).scrollTop() >= 50) {
+		$('header').addClass('fixed-header');
+	  	$('#header').addClass('fixed-header');
+	}
+	else {
+		$('header').removeClass('fixed-header');
+	  	$('#header').removeClass('fixed-header');
+	}
+  });
 
 
 var memories = document.querySelectorAll(".memory-container"); // All the memories that appear as we scroll down the timeline

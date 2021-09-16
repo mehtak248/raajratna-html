@@ -4,7 +4,7 @@
        <div class="container">
           <div class="row">
              <div class="col-md-6 offset-md-3">
-                <ul class="sociel">
+                <ul class="social">
                     <li> <a href="javascript:void(0);"><i class="fa fa-facebook"></i></a></li>
                     <li> <a href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
                     <li> <a href="javascript:void(0);"><i class="fa fa-instagram"></i></a></li>
@@ -75,6 +75,7 @@
  <script>
     AOS.init({
        duration: 1200,
+       disable: 'mobile'
     });
 
     baguetteBox.run(".gallery");

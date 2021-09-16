@@ -42,7 +42,7 @@
       <header>
          <!-- header inner -->
          <div class="header">
-            <div class="head_top">
+            <div class="head_top d-none d-md-block">
                <div class="container">
                   <div class="row">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
@@ -63,46 +63,48 @@
                </div>
             </div>
          </div>
-         <div class="container">
-            <div class="row">
-               <div class="col-xl-3 col-lg-3 col logo_section">
-                  <div class="full">
-                     <div class="center-desk">
-                        <div class="logo"> <a href="index.php"><img src="images/logo.png" alt="logo"/></a> </div>
-                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
-                           <span class="navbar-toggler-icon"></span>
-                        </button>
+         <div id="header">
+            <div class="container">
+               <div class="row">
+                  <div class="col-xl-3 col-lg-3 col logo_section">
+                     <div class="full">
+                        <div class="center-desk">
+                           <div class="logo"> <a href="index.php"><img src="images/logo.png" alt="logo"/></a> </div>
+                           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+                              <span class="navbar-toggler-icon"></span>
+                           </button>
+                        </div>
                      </div>
                   </div>
-               </div>
-               <div class="col-xl-9 col-lg-9">
-                  <div class="menu-area">
-                     <div class="limit-box">
-                        <nav class="main-menu">
-                           <ul class="menu-area-main">
-                              <li class="active"><a href="index.php">Home</a></li>
-                              <li><a href="about.php">About</a></li>
-                              <li class="dropdown">
-                                 <a href="our-process.php">Our Process</a>
-                                 <ul>
-                                    <li><a href="bright-anneling.php">Bright Anneling</a></li>
-                                    <li><a href="bead-crush.php">Bead Rolling</a></li>
-                                    <li><a href="passivation.php">Passivation</a></li>
-                                    <li><a href="electro-polishing.php">Electro polishing</a></li>
-                                 </ul>
-                              </li>
-                              <li><a href="products-and-application.php">Products & Application</a></li>
-                              <li class="dropdown">
-                                 <a href="quality.php">Quality</a>
-                                 <ul>
-                                    <li><a href="chemical-composition.php">Chemical Composition</a></li>
-                                    <li><a href="mechanical-properties.php">Mechanical Properties</a></li>
-                                 </ul>
-                              </li>
-                              <li><a href="gallery.php">Gallery</a></li>
-                              <li><a href="contact.php">Contact</a></li>
-                           </ul>
-                        </nav>
+                  <div class="col-xl-9 col-lg-9">
+                     <div class="menu-area">
+                        <div class="limit-box">
+                           <nav class="main-menu">
+                              <ul class="menu-area-main">
+                                 <li class="active"><a href="index.php">Home</a></li>
+                                 <li><a href="about.php">About</a></li>
+                                 <li class="dropdown">
+                                    <a href="our-process.php">Our Process</a>
+                                    <ul>
+                                       <li><a href="bright-anneling.php">Bright Anneling</a></li>
+                                       <li><a href="bead-crush.php">Bead Rolling</a></li>
+                                       <li><a href="passivation.php">Passivation</a></li>
+                                       <li><a href="electro-polishing.php">Electro polishing</a></li>
+                                    </ul>
+                                 </li>
+                                 <li><a href="products-and-application.php">Products & Application</a></li>
+                                 <li class="dropdown">
+                                    <a href="quality.php">Quality</a>
+                                    <ul>
+                                       <li><a href="chemical-composition.php">Chemical Composition</a></li>
+                                       <li><a href="mechanical-properties.php">Mechanical Properties</a></li>
+                                    </ul>
+                                 </li>
+                                 <li><a href="gallery.php">Gallery</a></li>
+                                 <li><a href="contact.php">Contact</a></li>
+                              </ul>
+                           </nav>
+                        </div>
                      </div>
                   </div>
                </div>
