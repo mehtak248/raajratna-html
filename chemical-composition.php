@@ -271,7 +271,11 @@
             </div>
          </div>
          <div class="service-image">
-            <img src="images/CommitmenttoReliability_02.jpg" class="img-fluid" />
+            <div class="row">
+               <div class="col-md-6">
+                  <img src="images/CommitmenttoReliability_02.jpg" class="img-fluid" />
+               </div>
+            </div>
          </div>
       </div>
    </div>

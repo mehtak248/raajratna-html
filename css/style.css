@@ -3101,17 +3101,15 @@ text-align: center;
 }
 
 .service-image {
-	display: flex;
-	margin: 0 0 50px;
+	margin: 0 20px 50px;
 	text-align: center;
 }
 
-.service-image.mech-image img {
-	flex: 50%;
-	padding: 0 20px;
+.service-image img {
+	width: 100%;
 	height: 400px;
+	margin: 0 auto;
 	object-fit: cover;
-	display: inline-block;
 }
 
 .process {
@@ -3182,6 +3180,11 @@ text-align: center;
 		top: 0;
 		right: 0;
 		pointer-events: none;
+	}
+
+	.main-menu ul>li>ul>li>a {
+		width: 100%;
+		padding: 0;
 	}
 
 	.navbar-toggler {
@@ -3264,6 +3267,14 @@ text-align: center;
 		width: 200px;
 		height: 200px;
 		border-radius: 40px;
+	}
+
+	.whyschose {
+		padding: 0;
+	}
+
+	.service-image img {
+		height: 200px;
 	}
 }
 
@@ -3484,23 +3495,20 @@ text-align: center;
 		font-size: 18px;
 	}
 	
-	.service-image {
-		flex-direction: column;
-	}
-
-	.service-image.mech-image img {
-		flex: none;
-		padding: 0 15px;
-		height: 200px;
-		margin: 0 0 10px;
-	}
-
 	.contact-information .section-content {
 		padding: 20px;
 	}
 
 	.contact-information .section-content h3 {
 		text-align: center;
+	}
+
+	.service-image {
+		margin: 0 15px;
+	}
+
+	.service-image img {
+		margin-bottom: 15px;
 	}
 }
 
