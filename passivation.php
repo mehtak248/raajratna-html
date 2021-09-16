@@ -3,7 +3,7 @@
    <div class="banner-block" style="background-image: url(images/ChemicalComposition.jpg)">
       <div class="container">
          <div class="heading-block">
-            <h1>Bead Rolling</h1>
+            <h1>Passivation</h1>
          </div>
       </div>
    </div>
@@ -11,7 +11,7 @@
    <!-- Process -->
    <div class="process">
         <div class="container">
-            <p>Weld Bead Crusher remove the Weld Bead Line from outside and inside, which give smooth surface and also give better Surface R.A value as per international standard.</p>
+            <p>Passivation is a chemical treatment with a specific acid formulation that eliminates free iron or other surface contamination from the Stainless steel. While concurrently promoting the development of a passive chrom/Nical Oxide deposit to act as a barrier to further corrosion for longer period.</p>
             <!-- <div class="process-advantages">
                 <div class="row">
                     <div class="col-md-12" data-aos="zoom-in">

@@ -3,7 +3,7 @@
    <div class="banner-block" style="background-image: url(images/ChemicalComposition.jpg)">
       <div class="container">
          <div class="heading-block">
-            <h1>Bead Rolling</h1>
+            <h1>Electro polishing</h1>
          </div>
       </div>
    </div>
@@ -11,8 +11,9 @@
    <!-- Process -->
    <div class="process">
         <div class="container">
-            <p>Weld Bead Crusher remove the Weld Bead Line from outside and inside, which give smooth surface and also give better Surface R.A value as per international standard.</p>
-            <!-- <div class="process-advantages">
+            <h2>Our best solution for the highest demands.</h2>
+            <!-- <p>Electro polishing offers many advantages over the mechanical processing of metal surfaces. The following characteristics are achived with electro polishing:</p> -->
+            <div class="process-advantages">
                 <div class="row">
                     <div class="col-md-12" data-aos="zoom-in">
                         <div class="title">
@@ -22,11 +23,17 @@
                 </div>
                 <div class="process-advantages-list">
                     <ul>
-                        <li>Coming Soon</li>
+                        <li>Smooth and glossy surfaces Micro-smoothing through electropolishing High corrosion resistance</li>
+                        <li>Metallic purity and chemical passivity</li>
+                        <li>Optimal cleaning behaviour</li>
+                        <li>Particle-free and pyrogen-resistant</li>
+                        <li>Heavily reduced film propensity</li>
+                        <li>Significantly reduced degassing behaviour</li>
+                        <li>Reduced friction and less wear and tear</li>
                     </ul>
                 </div>
             </div>
-            <div class="process-facts">
+            <!-- <div class="process-facts">
                 <div class="row">
                     <div class="col-md-12" data-aos="zoom-in">
                         <div class="title">

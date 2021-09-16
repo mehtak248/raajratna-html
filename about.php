@@ -86,13 +86,13 @@
    <div class="contact-block" data-aos="fade-up">
       <div class="container">
          <div class="row">
-            <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
+            <div class="col-xl-7 col-lg-7 col-md-6 col-sm-12">
                <div class="contact-subblock contact-left-block">
                   <h3>Contact Us</h3>
                   <p>Get answers and advice from people you want it from.</p>
                </div>
             </div>
-            <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
+            <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12">
                <div class="contact-subblock contact-right-block">
                   <a href="contact.html">Get Quote</a>
                </div>

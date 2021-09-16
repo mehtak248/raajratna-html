@@ -54,8 +54,8 @@
           </div>
        </div>
     </div>
-       <div class="copyright">
-          <p>Copyright 2021 All Right Reserved By <a href="https://raajratna.com/">Raajratna</a></p>
+      <div class="copyright">
+         <p>Copyright 2021 All Right Reserved By <a href="https://raajratna.com/">Raajratna</a> | Designed & Developed By : <a href="http://impactinfoways.in/" target="_blank">Impact Infoways</a> </p>
        </div>
     
  </div>

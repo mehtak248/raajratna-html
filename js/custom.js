@@ -368,7 +368,16 @@ $(function () {
 		interval: 5000
 	});
 
+	$('.navbar-toggler').on('click', function() {
+		$('.menu-area').slideToggle();
+	});
 
+	$('.main-menu ul>li a.dropdown:before').on('click', function(e) {
+		e.preventDefault();
+		e.stopPropagation();
+		console.log('before')
+
+	});
 });
 
 

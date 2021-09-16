@@ -66,12 +66,15 @@
                </div>
             </div>
             <div class="row whyschose-content-block">
+            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 d-md-none" data-aos="fade-left">
+                  <img src="images/banner2.jpg" class="img-fluid" />
+               </div>
                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12" data-aos="fade-right">
                   <h1>We as a <span>COMPANY</span></h1>
                   <p>We manufacture high purity and precision stainless steel tubes. Our commitment is to provide high level of quality to our esteemed customers. We connuously look for innovave ways to solve the customers tubing needs and provide best delivery time.</p>
                   <p>We are manufacture Stainless Steel Tubes with ultra modern state of the art European technology with 1800 MTPA capacity of the producon for various types of stainless steel, nickel alloys and tanium tubes with 1/2" to 4" (12.7mm to 101.6mm) with thickness up to 4 mm.</p>
                </div>
-               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12" data-aos="fade-left">
+               <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 d-none d-md-block" data-aos="fade-left">
                   <img src="images/banner2.jpg" class="img-fluid" />
                </div>
             </div>
@@ -110,7 +113,7 @@
                   <div class="service-box">
                      <span class="el-icon  enova-industrial-gears"></span>
                      <h3>Processing</h3>
-                     <p>Over 1,200 workers and skilled employees, the processing of the treated raw materials is carried out with care and as per the requirement of our customers.</p>
+                     <p>Skilled employees, the processing of the treated raw materials is carried out with care and as per the requirement of our customers.</p>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12" data-aos="fade-left   ">
@@ -153,31 +156,31 @@
       </div>
       <div class="container">
          <div class="row">
-            <div class="col-2dot4">
+            <div class="col-md-2dot4">
                <div class="for_box">
                   <div class="core-image"><img src="images/core-value1.png" class="img-fluid" /></div>
                   <h3>Customer: <br />First, Always</h3>
                </div>
             </div>
-            <div class="col-2dot4">
+            <div class="col-md-2dot4">
                <div class="for_box">
                   <div class="core-image"><img src="images/core-value2.png" class="img-fluid" /></div>
                   <h3>Our People: <br />Our Strength</h3>
                </div>
             </div>
-            <div class="col-2dot4">
+            <div class="col-md-2dot4">
                <div class="for_box">
                   <div class="core-image"><img src="images/core-value3.png" class="img-fluid" /></div>
                   <h3>Quality Policy: <br />Non Negoable</h3>
                </div>
             </div>
-            <div class="col-2dot4">
+            <div class="col-md-2dot4">
                <div class="for_box">
                   <div class="core-image"><img src="images/core-value4.png" class="img-fluid" /></div>
                   <h3>Commitment: <br />We Keep Our Words</h3>
                </div>
             </div>
-            <div class="col-2dot4">
+            <div class="col-md-2dot4">
                <div class="for_box">
                   <div class="core-image"><img src="images/core-value5.png" class="img-fluid" /></div>
                   <h3>Excellence: <br />We Give Our Best</h3>
@@ -298,13 +301,13 @@
    <div class="contact-block" data-aos="fade-up">
       <div class="container">
          <div class="row">
-            <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
+            <div class="col-xl-7 col-lg-7 col-md-6 col-sm-12">
                <div class="contact-subblock contact-left-block">
                   <h3>Contact Us</h3>
                   <p>Get answers and advice from people you want it from.</p>
                </div>
             </div>
-            <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
+            <div class="col-xl-5 col-lg-5 col-md-6 col-sm-12">
                <div class="contact-subblock contact-right-block">
                   <a href="contact.html">Get Quote</a>
                </div>

@@ -105,7 +105,7 @@
     }
     .mean-container .mean-nav ul li a {
         padding: 1em 4%;
-        width: 92%;
+        width: 100%;
     }
     .mean-container .mean-nav ul li li a {
         width: 90%;
@@ -126,7 +126,8 @@
         overflow-y: auto;
     }
     .mean-container .mean-nav ul li a.mean-expand {
-        top: 0;
+        top: -1px;
+        right: 20px;
     }
 }
 
@@ -251,8 +252,7 @@ padding: 1px 0px 1px 0px;
 
 @media (min-width: 576px) and (max-width: 767px) {
     .header {
-     
-        padding-top: 35px;
+        padding-top: 0;
     }
     .mean-container .mean-bar {
         margin-top: 0px;
@@ -301,7 +301,7 @@ padding: 1px 0px 1px 0px;
 @media (max-width: 575px) {
     .header {
         padding-bottom: 0px;
-        padding-top: 25px;
+        padding-top: 0;
     }
     .logo {
         text-align: center !important;
@@ -322,8 +322,8 @@ padding: 1px 0px 1px 0px;
         bottom: 0;
     }
     .banner-main .carousel-caption h1 {
-        font-size: 40px;
-        line-height: 50px;
+        font-size: 24px;
+        line-height: 30px;
        margin-bottom: 1px;
     }
     .banner-main .carousel-caption p {
@@ -370,7 +370,7 @@ padding: 1px 0px 1px 0px;
         margin-bottom: 30px;
     }
     .copyright p {
-        font-size: 16px;
+        font-size: 14px;
         padding: 0 15px;
     }
     .footer .newsletter .subscribe {

@@ -18,7 +18,7 @@
       <!-- style css -->
       <link rel="stylesheet" href="css/style.css">
       <!-- Responsive-->
-      <link rel="stylesheet" href="css/responsive.css">
+      <!-- <link rel="stylesheet" href="css/responsive.css"> -->
       <!-- fevicon -->
       <link rel="icon" href="images/favicon.png" type="image/gif" />
       <!-- Scrollbar Custom CSS -->
@@ -47,7 +47,7 @@
                   <div class="row">
                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                        <div class="top-box">
-                        <ul class="sociel_link">
+                        <ul class="social_link">
                          <li> <a href="javascript:void(0);"><i class="fa fa-facebook"></i></a></li>
                          <li> <a href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
                          <li> <a href="javascript:void(0);"><i class="fa fa-instagram"></i></a></li>
@@ -65,31 +65,34 @@
          </div>
          <div class="container">
             <div class="row">
-               <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section">
+               <div class="col-xl-3 col-lg-3 col logo_section">
                   <div class="full">
                      <div class="center-desk">
                         <div class="logo"> <a href="index.php"><img src="images/logo.png" alt="logo"/></a> </div>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+                           <span class="navbar-toggler-icon"></span>
+                        </button>
                      </div>
                   </div>
                </div>
-               <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+               <div class="col-xl-9 col-lg-9">
                   <div class="menu-area">
                      <div class="limit-box">
                         <nav class="main-menu">
                            <ul class="menu-area-main">
                               <li class="active"><a href="index.php">Home</a></li>
                               <li><a href="about.php">About</a></li>
-                              <li>
+                              <li class="dropdown">
                                  <a href="our-process.php">Our Process</a>
                                  <ul>
-                                    <li><a href="welding-technology.php">Welding Technology</a></li>
-                                    <li><a href="bead-crush.php">Bead Crush</a></li>
                                     <li><a href="bright-anneling.php">Bright Anneling</a></li>
-                                    <li><a href="surface-treatment.php">Surface Treatment</a></li>
+                                    <li><a href="bead-crush.php">Bead Rolling</a></li>
+                                    <li><a href="passivation.php">Passivation</a></li>
+                                    <li><a href="electro-polishing.php">Electro polishing</a></li>
                                  </ul>
                               </li>
                               <li><a href="products-and-application.php">Products & Application</a></li>
-                              <li>
+                              <li class="dropdown">
                                  <a href="quality.php">Quality</a>
                                  <ul>
                                     <li><a href="chemical-composition.php">Chemical Composition</a></li>
