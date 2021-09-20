@@ -44,7 +44,7 @@
                         </div>
                         <div class="col-sm-8">
                            <h3>Bead Rolling</h3>
-                           <p>Weld Bead Crusher remove the Weld Bead Line from outside and inside, which give smooth surface and also give better Surface R.A value as per international standard.</p>
+                           <p>Weld Bread Crusher remove the Weld Bead Line from outside and inside, which give smooth surface and also give better Surface R.A value as per international standard.</p>
                         </div>
                         <div class="col-sm-4 d-none d-md-block">
                            <img src="images/banner2.jpg" class="img-fluid" />

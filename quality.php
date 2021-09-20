@@ -11,19 +11,41 @@
    <div class="quality-test" data-aos="fade-up">
       <div class="container">
          <div class="quality-test-content">
-            <h1><strong class="grey">Quality</strong> INSPECTION & TESTS</h1>   
-            <ul>
-               <li>Verificaon of material grade (PMI)</li>
-               <li>100% visual & dimension inspecon</li>
-               <li>Eddy current tesng (ECT)</li>
-               <li>ID surface roughness measurements</li>
-               <li>Corner cut measurements</li>
-               <li>Chemical analysis by spectrometer</li>
-               <li>Hydrostac test</li>
-               <li>Intergranular corrosion test (on request)</li>
-               <li>Weld decay test (on request)</li>
-               <li>Micro & macro (on request)</li>
-            </ul>
+            <div class="row">
+               <div class="col-lg-6">
+                  <h1><strong class="grey">Quality</strong> INSPECTION & TESTS</h1>   
+                  <ul>
+                     <li>Verificaon of material grade (PMI)</li>
+                     <li>100% visual & dimension inspecon</li>
+                     <li>Eddy current tesng (ECT)</li>
+                     <li>ID surface roughness measurements</li>
+                     <li>Corner cut measurements</li>
+                     <li>Chemical analysis by spectrometer</li>
+                     <li>Hydrostac test</li>
+                     <li>Intergranular corrosion test (on request)</li>
+                     <li>Weld decay test (on request)</li>
+                     <li>Micro & macro (on request)</li>
+                  </ul>
+               </div>
+               <div class="col-lg-6">
+                  <div class="quality-slider">
+                  <div id="main_slider" class="carousel slide banner-main" data-ride="carousel">
+                     <div class="carousel-inner">
+                        <div class="carousel-item active" style="background-image: url(images/CommitmenttoReliability_02.jpg)"></div>
+                        <div class="carousel-item" style="background-image: url(images/MechanicalTestingFacilities.jpg)"></div>
+                        <div class="carousel-item" style="background-image: url(images/CommitmenttoReliability_01.jpg)"></div>
+                     </div>
+                     <a class="carousel-control-prev" href="#main_slider" role="button" data-slide="prev">
+                        <i class='fa fa-angle-left'></i>
+                     </a>
+                     <a class="carousel-control-next" href="#main_slider" role="button" data-slide="next">
+                        <i class='fa fa-angle-right'></i>
+                     </a>
+
+                     </div>
+                  </div>
+               </div>
+            </div>
          </div>
          <div class="quality-test-content">
             <h1><strong class="grey">Mechanical</strong> TESTING FACILITIES</h1>   
@@ -41,10 +63,6 @@
             <h1><strong class="grey">Commitment to</strong> RELIABILITY</h1>   
             <p>The company has modern producon facilies manned by experienced and commied personnel to product tubes conforming to various Naonal & Internaonal standards.</p>
             <p>The quality is built into the product as a result of inspecon and tesng at various stages of producon starng from raw material stage to finish product. All tubes are subject to internal test criteria that can meet or exceed ASTM, DIN, ISO, EN and JIS and other required specificaons.</p>
-         </div>
-         <div class="quality-test-content">
-            <h1><strong class="grey">End Use</strong> APPLICATIONS</h1>   
-            <p>Corrosion resistance is the ability to prevent environmental deterioraon by chemical or electro-chemical reacon. We provide High corrosion resistance, excellent cleaning ability with closed tolerances and highest level of purity, surface finish quality to cater specific industry need according to naonal /Internaonal and customer requirements.</p>
          </div>
       </div>
    </div>

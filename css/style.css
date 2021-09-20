@@ -1959,7 +1959,7 @@ margin-top: 40px;
 	right: 0;
 	bottom: 0;
 	margin: auto;
-	background-color: rgba(0, 0, 0, 0.7);
+	background-color: rgba(0, 0, 0, 0.4);
 }
 
 
@@ -2784,13 +2784,43 @@ text-align: center;
 }
 
 .tubes-type-block h2 {
+	margin: 0;
 	color: #013064;
 	font-weight: bold;
+	font-size: 30px;
 }
 
-.tubes-type-block .tab-pane img {
+.tubes-type-block .tubes-details h2 {
+	text-align: left;
+	font-size: 22px;
+    margin: 0;
+}
+
+.product-block .tubes-type-block .tab-pane .product-image {
+	overflow: hidden;
+	border-radius: 15px;
+	border: 3px solid #013064;
+}
+
+.product-block .tubes-type-block .tab-pane img {
 	width: 100%;
 	height: 300px;
+	object-fit: cover;
+	margin-left: 70px;
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+.product-block .tubes-type-block .tab-pane .product-image:hover img {
+	margin-left: 0;
+}
+
+.application-block .tubes-type-block .tab-pane img {
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
 	margin: 0 0 15px;
 	object-fit: cover;
 }
@@ -3570,4 +3600,73 @@ header.fixed-header {
 		z-index: 99;
 		background-color: #fff;
 	}
+}
+
+.tubes-type-block .tab-content {
+	margin: 20px 0 0;
+}
+
+.application-block .tab-content .tab-pane {
+	margin: 0 0 30px;
+}
+
+.application-subblock {
+	margin: 0 0 20px;
+	text-align: center;
+}
+
+.application-image-block {
+	position: relative;
+	cursor: pointer;
+	overflow: hidden;
+	border-radius: 30px;
+}
+
+.application-subblock img {
+	width: 100%;
+	height: 200px;
+	object-fit: cover;
+	transition: 0.5s all ease;
+}
+
+.application-image-block:hover img {
+	transform: scale(1.5);
+}
+
+.application-subblock h4 {
+	margin: 10px 0 0;
+	color: #013064;
+	font-size: 18px;
+	line-height: 20px;
+	font-weight: bold;
+}
+
+.quality-slider .carousel-item {
+	width: 100%;
+	height: 400px;
+	object-fit: cover;
+}
+
+.quality-slider .carousel-item:before {
+	display: none;
+}
+
+.quality-slider #main_slider a.carousel-control-prev {
+	bottom: 0;
+	top: 0;
+	right: auto;
+    left: 0;
+	margin: auto;
+	background: #4482c2;
+    color: #fff;
+}
+
+.quality-slider #main_slider a.carousel-control-next {
+	bottom: 0;
+	top: 0;
+	right: 0;
+    left: auto;
+	margin: auto;
+	background: #4482c2;
+    color: #fff;
 }

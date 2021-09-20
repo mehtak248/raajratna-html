@@ -187,7 +187,7 @@
                </div>
             </div>
          </div>
-         <div class="service-image mech-image">
+         <!-- <div class="service-image mech-image">
             <div class="row">
                <div class="col-md-6">
                   <img src="images/MechanicalTestingFacilities.jpg" class="img-fluid" />
@@ -196,7 +196,7 @@
                   <img src="images/CommitmenttoReliability_01.jpg" class="img-fluid" />
                </div>
             </div>
-         </div>
+         </div> -->
       </div>
    </div>
    <!-- end service -->

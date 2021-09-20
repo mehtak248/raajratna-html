@@ -11,7 +11,7 @@
    <!-- Process -->
    <div class="process">
         <div class="container">
-            <p>Weld Bead Crusher remove the Weld Bead Line from outside and inside, which give smooth surface and also give better Surface R.A value as per international standard.</p>
+            <p>Weld Bread Crusher remove the Weld Bead Line from outside and inside, which give smooth surface and also give better Surface R.A value as per international standard.</p>
             <!-- <div class="process-advantages">
                 <div class="row">
                     <div class="col-md-12" data-aos="zoom-in">

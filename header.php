@@ -87,7 +87,7 @@
                                     <a href="our-process.php">Our Process</a>
                                     <ul>
                                        <li><a href="bright-anneling.php">Bright Anneling</a></li>
-                                       <li><a href="bead-crush.php">Bead Rolling</a></li>
+                                       <li><a href="bead-rolling.php">Bead Rolling</a></li>
                                        <li><a href="passivation.php">Passivation</a></li>
                                        <li><a href="electro-polishing.php">Electro polishing</a></li>
                                     </ul>
