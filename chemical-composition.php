@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-   <div class="banner-block" style="background-image: url(images/ChemicalComposition.jpg)">
+   <div class="banner-block" style="background-image: url(images/chemicalComp.jpg)">
       <div class="container">
          <div class="heading-block">
             <h1>Chemical Composition</h1>
@@ -35,7 +35,7 @@
                            </thead>
                            <tbody>
                               <tr>
-                                 <td colspan="12"><h4>Austenic Stainless Steel</h4></td>
+                                 <td colspan="12"><h4>Austenitic Stainless Steel</h4></td>
                               </tr>
                               <tr>
                                  <td>304</td>

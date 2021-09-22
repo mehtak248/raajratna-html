@@ -74,8 +74,9 @@
  <script src="js/aos.js"></script>
  <script>
     AOS.init({
-       duration: 1200,
-       disable: 'mobile'
+      duration: 1200,
+      disable: 'mobile',
+      once: true
     });
 
     baguetteBox.run(".gallery");

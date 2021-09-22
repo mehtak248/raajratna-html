@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-   <div class="banner-block" style="background-image: url(images/ChemicalComposition.jpg)">
+   <div class="banner-block bright-annealing-banner-block" style="background-image: url(images/BrightAnnealing.png)">
       <div class="container">
          <div class="heading-block">
             <h1>Bright Anneling</h1>

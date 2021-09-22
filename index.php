@@ -8,16 +8,16 @@
                <div class="container">
                   <div class="carousel-caption relative">
                      <h1>Welcome To Raajratna Tubes</h1>
-                     <p>We are a leading Manufacturer and Exporter of Stainless Steel</p>
-                     <a href="javascript:void(0);">see more Products</a>
+                     <p>We are manufacturer and exporter of high purity and precision stainless steel welded tubes.</p>
+                     <a href="javascript:void(0);">Read More</a>
                   </div>
                </div>
             </div>
             <div class="carousel-item" style="background-image: url(images/banner2.jpg)">
                <div class="container">
                   <div class="carousel-caption relative">
-                     <h1>Our Process</h1>
-                     <p>All welding processes are carried out using the GTAW method and the suitable gas mixture of flushing and protecve gas to ensure the highest degree of purity</p>
+                     <h1>Our Products</h1>
+                     <p>We are manufacturing Bright annealed with bredcrush, outside inside mechanical polish and electro polishing tubes as per national and international standards</p>
                      <a href="javascript:void(0);">see more Products</a>
                   </div>
                </div>
@@ -25,9 +25,9 @@
             <div class="carousel-item" style="background-image: url(images/banner3.jpg)">
                <div class="container">
                   <div class="carousel-caption relative">
-                     <h1>Our Team</h1>
-                     <p>Our team works day in and out to deliver world class products</p>
-                     <a href="javascript:void(0);">see more Products</a>
+                     <h1>End Use Applications</h1>
+                     <p>Pharmaceuticals & Bio-Pharma, Dairy Industries, Chemical Processing, Desalinaon, Food & Beverages, Health & Cosmetic, etc...</p>
+                     <a href="javascript:void(0);">Read More</a>
                   </div>
                </div>
             </div>
@@ -61,21 +61,21 @@
                </div>
                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12" data-aos="fade-left">
                   <h1>We as a <span>GROUP</span></h1>
-                  <p>Raajratna Stainless Pvt. Ltd. is a part of Raajratna Group of companies having annual sales of 1500 Cr. Raajratna group is established in year 1988 engaged into manufacturing various products like stainless steel tubes, stainless steel wire, stainless bars, stainless steel fasteners, stainless steel structure pipes, welding consumables, solar modules, aluminum profiles and crepe paper</p>
+                  <p>Raajratna Stainless Pvt. Ltd. is a part of Raajratna Group of companies having annual sales of 1500 Cr. Raajratna group is established in year 1988 engaged into manufacturing various products like stainless steel tubes, stainless steel wire, stainless bars, stainless steel fasteners, stainless steel structure pipes, welding consumables, solar modules, aluminum profiles and crepe paper.</p>
                   <p>We export 70% of our products to more than 60 countries located in European Union, USA, Middle East, Asia, Australia, South Africa, Turkey, Sri Lanka, Japan, Korea and many more...</p>
                </div>
             </div>
             <div class="row whyschose-content-block">
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 d-md-none" data-aos="fade-left">
-                  <img src="images/banner2.jpg" class="img-fluid" />
+                  <img src="images/banner1.jpg" class="img-fluid" />
                </div>
                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12" data-aos="fade-right">
                   <h1>We as a <span>COMPANY</span></h1>
-                  <p>We manufacture high purity and precision stainless steel tubes. Our commitment is to provide high level of quality to our esteemed customers. We connuously look for innovave ways to solve the customers tubing needs and provide best delivery time.</p>
-                  <p>We are manufacture Stainless Steel Tubes with ultra modern state of the art European technology with 1800 MTPA capacity of the producon for various types of stainless steel, nickel alloys and tanium tubes with 1/2" to 4" (12.7mm to 101.6mm) with thickness up to 4 mm.</p>
+                  <p>We manufacture high purity and precision stainless steel tubes. Our commitment is to provide high level of quality to our esteemed customers. We continuously look for innovative ways to solve the customers tubing needs and provide best delivery time.</p>
+                  <p>We are manufacturer of Stainless Steel Tubes with ultra modern state of the art European technology with 1800 MTPA capacity of the producon for various types of stainless steel, nickel alloys and tanium tubes with 1/2" to 4" (12.7mm to 101.6mm) with thickness up to 4 mm.</p>
                </div>
                <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 d-none d-md-block" data-aos="fade-left">
-                  <img src="images/banner2.jpg" class="img-fluid" />
+                  <img src="images/banner1.jpg" class="img-fluid" />
                </div>
             </div>
          </div>
@@ -134,7 +134,7 @@
                   <div class="service-box">
                      <span class="el-icon  enova-industrial-truck"></span>
                      <h3>Logistics</h3>
-                     <p>To ensure on time delivery to our clients we have two subsidiary companies with multiple warehouses located in various countries.</p>
+                     <p>We provide best Logistic support to our clients.</p>
                   </div>
                </div>
             </div>
@@ -210,7 +210,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
                   <div class="product-box">
                      <i><img src="images/application1.jpg"/></i>
-                     <h3>Pharmaceucals & Bio-Pharma</h3>
+                     <h3>Pharmaceuticals & Bio-Pharma</h3>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
@@ -228,7 +228,7 @@
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
                   <div class="product-box">
                      <i><img src="images/application4.jpg"/></i>
-                     <h3>Desalinaon</h3>
+                     <h3>Desalination</h3>
                   </div>
                </div>
                <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">

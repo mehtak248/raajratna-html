@@ -106,7 +106,7 @@
                                        <div class="col-sm-6">
                                           <div class="tubes-content-block">
                                              <div class="tubes-content-subblock">
-                                                <h5>Specificaon</h5>
+                                                <h5>Specification</h5>
                                                 <h6>ASTM A270 compliant</h6>
                                              </div>
                                              <div class="tubes-content-subblock">
@@ -122,7 +122,7 @@
                                                 <h6>Bright Annealed, Mill Finish is available for both ID/OD. Mechanical Polish, Electro Polish needs to specify either ID /OD.</h6>
                                              </div>
                                              <div class="tubes-content-subblock">
-                                                <h5>Producon Range</h5>
+                                                <h5>Production Range</h5>
                                                 <table class="table">
                                                    <tbody>
                                                       <tr>
@@ -156,7 +156,7 @@
                               </div>
                               <div class="col-lg-8">
                                  <h2>ASME BPE Stainless Steel Sanitary Tubes</h2>
-                                 <p>ASME BPE a set of guidelines designed for the requirements of the bioprocessing, pharmaceucal and pe r sonal car e product industries as well as other applicaons with relavely high levels of hygienic requirements, covering directly or indirectly the subjects of materials, design, fabricaon, welding inspecons, tesng and cerficaons.</p>
+                                 <p>ASME BPE a set of guidelines designed for the requirements of the bioprocessing, pharmaceuticals and personal care product industries as well as other applications with relavely high levels of hygienic requirements, covering directly or indirectly the subjects of materials, design, fabrication, welding inspections, testing and certifications.</p>
                                  <div class="tubes-details">
                                     <div class="row">
                                        <div class="col-sm-6">
@@ -215,7 +215,7 @@
                                        <div class="col-sm-6">
                                           <div class="tubes-content-block">
                                              <div class="tubes-content-subblock">
-                                                <h5>Specificaon</h5>
+                                                <h5>Specification</h5>
                                                 <h6>ASTM A270 S2</h6>
                                              </div>
                                              <div class="tubes-content-subblock">
@@ -231,7 +231,7 @@
                                                 <h6>SF0 - Mill Finish, SF1 - SF3 Mechanical Polish, SF-4 - SF6 Electro Polish</h6>
                                              </div>
                                              <div class="tubes-content-subblock">
-                                                <h5>Producon Range</h5>
+                                                <h5>Production Range</h5>
                                                 <table class="table">
                                                    <tbody>
                                                       <tr>
@@ -265,7 +265,7 @@
                               </div>
                               <div class="col-lg-8">
                                  <h2>ISO / SMS Stainless Steel Sanitary Tubes</h2>
-                                 <p>SMS-Swedish Milk standard for stainless steel tube for the food indus try and other hygienic applicaons</p>
+                                 <p>SMS-Swedish Milk standard for stainless steel tube for the food indus try and other hygienic applications</p>
                                  <div class="tubes-details">
                                     <div class="row">
                                        <div class="col-sm-6">
@@ -319,7 +319,7 @@
                                        <div class="col-sm-6">
                                           <div class="tubes-content-block">
                                              <div class="tubes-content-subblock">
-                                                <h5>Specificaon</h5>
+                                                <h5>Specification</h5>
                                                 <h6>SMS 3008</h6>
                                              </div>
                                              <div class="tubes-content-subblock">
@@ -335,7 +335,7 @@
                                                 <h6>Bright Annealed, Mill Finish is available for both ID/OD. Mechanical Polish, Electro Polish needs to specify either ID /OD.</h6>
                                              </div>
                                              <div class="tubes-content-subblock">
-                                                <h5>Producon Range</h5>
+                                                <h5>Production Range</h5>
                                                 <table class="table">
                                                    <tbody>
                                                       <tr>
@@ -369,7 +369,7 @@
                               </div>
                               <div class="col-lg-8">
                                  <h2>BS 4825 Stainless Steel Sanitary Tubes</h2>
-                                 <p>BS is widely used throughout the UK hygienic industries. It can be used on permanently installed pipelines but it is also designed for use where systems are frequently dismantled. BS 4825 part 1 and should be used in applicaons where manual cleaning is employed. Parcularly suited where lines are frequently dismantled due to their robust construcon and ease of alignment</p>
+                                 <p>BS is widely used throughout the UK hygienic industries. It can be used on permanently installed pipelines but it is also designed for use where systems are frequently dismantled. BS 4825 part 1 and should be used in applications where manual cleaning is employed. Particularly suited where lines are frequently dismantled due to their robust construction and ease of alignment</p>
                                  <div class="tubes-details">
                                     <div class="row">
                                        <div class="col-sm-6">
@@ -428,7 +428,7 @@
                                        <div class="col-sm-6">
                                           <div class="tubes-content-block">
                                              <div class="tubes-content-subblock">
-                                                <h5>Specificaon</h5>
+                                                <h5>Specification</h5>
                                                 <h6>BS 4825-1 Compliant</h6>
                                              </div>
                                              <div class="tubes-content-subblock">
@@ -444,7 +444,7 @@
                                                 <h6>Bright Annealed, Mill Finish is available for both ID/OD. Mechanical Polish, Electro Polish needs to specify either ID /OD.</h6>
                                              </div>
                                              <div class="tubes-content-subblock">
-                                                <h5>Producon Range</h5>
+                                                <h5>Production Range</h5>
                                                 <table class="table">
                                                    <tbody>
                                                       <tr>
@@ -494,7 +494,7 @@
                         <div class="application-image-block">
                            <img src="images/application1.jpg" class="img-fluid" />
                         </div>
-                        <h4>Pharmaceucals & Bio-Pharma</h4>
+                        <h4>Pharmaceuticals & Bio-Pharma</h4>
                      </div>
                   </div>
                   <div class="col-12 col-lg-4">

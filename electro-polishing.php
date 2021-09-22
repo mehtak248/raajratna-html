@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-   <div class="banner-block" style="background-image: url(images/ChemicalComposition.jpg)">
+   <div class="banner-block electro-polishing-banner-block" style="background-image: url(images/electro-polishing.jpg)">
       <div class="container">
          <div class="heading-block">
             <h1>Electro polishing</h1>

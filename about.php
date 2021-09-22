@@ -31,7 +31,7 @@
    <section class="history-block" data-aos="fade-up">
       <section class="heading-block">
          <div class="container">
-            <div class="page-header">A Brief History of Ratna Tubes</div>
+            <div class="page-header">A Brief History of Raajratna Tubes</div>
          </div>
       </section>
 

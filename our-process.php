@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-   <div class="banner-block" style="background-image: url(images/banner1.jpg)">
+   <div class="banner-block" style="background-image: url(images/our-process.jfif)">
       <div class="container">
          <div class="heading-block">
             <h1>Our Process</h1>
@@ -16,8 +16,8 @@
                <div class="title">
                   <h2><strong class="grey">Our</strong> Process</h2>
                   <span>Easy and effective way to get your device repair</span>
-                  <p>At Raajratna Stainless Pvt. Ltd. is an ISO 9001 : 2015 accrediated company engaged in manufacturing specialized high purity precision tubes mainly used in pharmaceucal & bio pharma, dairy industries, chemical processing, desalinaon plant, food & beverages, health & cosmecs as well as in industrial applicaons. Our experse is in manufacturing high purity tubes in dierent standards like 3A, BPE, ISO/SMS, DIN & JIS.</p>
-                  <p>At Raajratna Stainless Pvt. Ltd. all welding processes are carried out using the GTAW method and the suitable gas mixture of flushing and protecve gas to ensure the highest degree of purity. We ensures that all our tubes are consists of highest quality and meets naonal & internaonal standards.</p>
+                  <p>At Raajratna Stainless Pvt. Ltd. is an ISO 9001 : 2015 accrediated company engaged in manufacturing specialized high purity precision tubes mainly used in Pharmaceuticals & bio pharma, dairy industries, chemical processing, desalination plant, food & beverages, health & cosmetic as well as in industrial applications. Our expertise is in manufacturing high purity tubes in different standards like 3A, BPE, ISO/SMS, DIN & JIS.</p>
+                  <p>At Raajratna Stainless Pvt. Ltd. all welding processes are carried out using the GTAW method and the suitable gas mixture of flushing and protective gas to ensure the highest degree of purity. We ensures that all our tubes are consists of highest quality to meets national & international standards.</p>
                </div>
             </div>
          </div>
@@ -27,7 +27,7 @@
                   <div class="service-box">
                      <div class="row">
                         <div class="col-sm-4 image-block">
-                           <img src="images/banner1.jpg" class="img-fluid" />
+                           <img src="images/BrightAnnealing.png" class="img-fluid" />
                         </div>
                         <div class="col-sm-8">
                            <h3>Bright Annealing</h3>
@@ -40,14 +40,14 @@
                   <div class="service-box">
                      <div class="row">
                      <div class="col-sm-4 image-block d-md-none">
-                           <img src="images/banner2.jpg" class="img-fluid" />
+                           <img src="images/rollpanmockedup.jpeg" class="img-fluid" />
                         </div>
                         <div class="col-sm-8">
                            <h3>Bead Rolling</h3>
-                           <p>Weld Bread Crusher remove the Weld Bead Line from outside and inside, which give smooth surface and also give better Surface R.A value as per international standard.</p>
+                           <p>Weld Breadcrush remove the Weld Bead Line from outside and inside, which give smooth surface and also give better Surface R.A value as per international standard.</p>
                         </div>
                         <div class="col-sm-4 d-none d-md-block">
-                           <img src="images/banner2.jpg" class="img-fluid" />
+                           <img src="images/rollpanmockedup.jpeg" class="img-fluid" />
                         </div>
                      </div>
                   </div>
@@ -56,7 +56,7 @@
                   <div class="service-box">
                      <div class="row">
                         <div class="col-sm-4 image-block">
-                           <img src="images/banner1.jpg" class="img-fluid" />
+                           <img src="images/passivation.jpg" class="img-fluid" />
                         </div>
                         <div class="col-sm-8">
                            <h3>Passivation</h3>
@@ -69,7 +69,7 @@
                   <div class="service-box">
                      <div class="row">
                      <div class="col-sm-4 image-block d-md-none">
-                           <img src="images/banner2.jpg" class="img-fluid" />
+                           <img src="images/electro-polishing.jpg" class="img-fluid" />
                         </div>
                         <div class="col-sm-8">
                            <h3>Electropolishing</h3>
@@ -85,7 +85,7 @@
                            </ul>
                         </div>
                         <div class="col-sm-4 d-none d-md-block">
-                           <img src="images/banner2.jpg" class="img-fluid" />
+                           <img src="images/electro-polishing.jpg" class="img-fluid" />
                         </div>
                      </div>
                   </div>

@@ -1,6 +1,6 @@
 <?php include 'header.php'; ?>
 
-   <div class="banner-block" style="background-image: url(images/MechanicalProperties.jpg)">
+   <div class="banner-block" style="background-image: url(images/mechanical-prop.jpg)">
       <div class="container">
          <div class="heading-block">
             <h1>Mechanical Properties</h1>
@@ -30,7 +30,7 @@
                            </thead>
                            <tbody>
                               <tr>
-                                 <td colspan="7"><h4>Austenic Stainless Steel</h4></td>
+                                 <td colspan="7"><h4>Austenitic Stainless Steel</h4></td>
                               </tr>
                               <tr>
                                  <td>304</td>
@@ -114,7 +114,7 @@
                                  <td>--</td>
                               </tr>
                               <tr>
-                                 <td colspan="7"><h4>Duplex Stainless Stee</h4></td>
+                                 <td colspan="7"><h4>Duplex Stainless Steel</h4></td>
                               </tr>
                               <tr>
                                  <td>Duplex 2205</td>
