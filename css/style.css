@@ -2879,7 +2879,11 @@ ul.lik li a:hover {
 }
 
 .tubes-block {
-    padding: 90px 0;
+    padding: 90px 0 0;
+}
+
+.application-block {
+    padding: 50px 0 90px;
 }
 
 .tubes-subblock .image-block {
